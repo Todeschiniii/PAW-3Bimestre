@@ -20,6 +20,7 @@ Projeto estruturado para simular um ambiente real de desenvolvimento, aplicando 
 - [🧠 Melhorias Futuras](#-melhorias-futuras)
 - [👨‍💻 Autor](#-autor)
 - [📄 Licença](#-licença)
+- [👥 Créditos & Contatos](#-créditos--contatos)
 
 ---
 
@@ -197,7 +198,7 @@ Projeto desenvolvido para fins educacionais.
 
 ---
 
-# # 👥 Créditos & contatos
+# 👥 Créditos & contatos
 
 1. <b>Mateus Todeschini</b> - GitHub: https://github.com/Todeschiniii<br>
 2. <b>Heitor Pinheiro</b> - GitHub: https://github.com/HeitorPinheiro11<br>
